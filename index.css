@@ -1,0 +1,29 @@
+.container-fluid {
+}
+.text {
+    margin: 7%;
+}
+
+.social-media{
+  display:flex;
+  justify-content: center;
+  justify-items: center;
+  gap:30px;
+  padding-bottom: 5%;
+}
+
+footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+p {
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
